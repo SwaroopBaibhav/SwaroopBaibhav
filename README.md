@@ -24,7 +24,7 @@
 <h3>Front-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,react,vue,xd,ionic,figma,vite" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,angular,react,vue,xd,figma,vite,ionic" />
   </a>
 </p>
 <h3>Back-End</h3>
