@@ -30,10 +30,16 @@
 <h3>Back-End</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,ts,java,django,git,docker,vim" />
+    <img src="https://skillicons.dev/icons?i=nodejs,ts,java,django,git,docker" />
   </a>
 </p>
 <h3>Machine Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,opencv,tensorflow,pandas,matplotlib" />
+  </a>
+</p>
+<h3>Other Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,opencv,tensorflow,pandas,matplotlib" />
@@ -48,7 +54,7 @@
 <h3>Other Interested Fields</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,blender,unreal" />
+    <img src="https://skillicons.dev/icons?i=arduino,androidstudio,blender,unreal,threejs" />
   </a>
 </p>
 
