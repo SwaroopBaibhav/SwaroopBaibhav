@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ML model pipelining.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SwaroopBaibhav](https://github.com/SwaroopBaibhav)
+- 👨‍💻 All of my projects are available at [https://github.com/SwaroopBaibhav](https://github.com/SwaroopBaibhavhttps://github.com/SwaroopBaibhav?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Django and anything realted to python :)**
 
