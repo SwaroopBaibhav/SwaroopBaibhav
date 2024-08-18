@@ -39,12 +39,6 @@
     <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,opencv,tensorflow,pandas,matplotlib" />
   </a>
 </p>
-<h3>Other Tools</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,opencv,tensorflow,pandas,matplotlib" />
-  </a>
-</p>
 <h3>Fav IDE's</h3>
 <p align="center">
   <a href="https://skillicons.dev">
