@@ -36,7 +36,13 @@
 <h3>Machine Learning</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,sklearn,opencv,tensorflow,pandas,matplotlib" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda,sklearn,opencv,tensorflow,pandas,matplotlib" />
+  </a>
+</p>
+<h3>Fav IDE's</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,vim,codepen,pycharm" />
   </a>
 </p>
 <h3>Other Interested Fields</h3>
