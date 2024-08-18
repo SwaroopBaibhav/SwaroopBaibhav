@@ -48,10 +48,10 @@
 
 
 
-<h3 align="left">Stats and Insights :</h3>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SwaroopBaibhav&theme=radical&custom_title=Github Engagements&rank_icon=github&title_color=2f80ed" />
+  <a href="https://github.com/SwaroopBaibhav/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwaroopBaibhav&theme=radical&custom_title=Github Engagements&rank_icon=github&title_color=2f80ed" />
+</a>
 </div>
 
 <br>
