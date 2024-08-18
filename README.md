@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swaroopbaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="swaroopbaibhav" /> </p>
 
-- 🔭 I’m currently working on **PIXY**
+- 🔭 I’m currently working on **PIXY.**
 
 - 🌱 I’m currently learning **ML model pipelining.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SwaroopBaibhav](https://github.com/SwaroopBaibhavhttps://github.com/SwaroopBaibhav?tab=repositories)
+- 👨‍💻 All of my projects are available [here.](https://github.com/SwaroopBaibhav)
 
 - 💬 Ask me about **Machine Learning, Django and anything realted to python :)**
 
-- 📫 How to reach me **swaroopbaibhav@gmail.com**
+- 📫 How to reach me **swaroopbaibhav@gmail.com.**
 
 
 <h3 align="left">Connect with me :</h3>
