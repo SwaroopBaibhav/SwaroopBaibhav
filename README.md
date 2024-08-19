@@ -55,9 +55,7 @@
 
 
 <div align="center">
-  <a href="https://github.com/SwaroopBaibhav/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SwaroopBaibhav&theme=radical&custom_title=Github Engagements&rank_icon=github&title_color=2f80ed" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=SwaroopBaibhav&theme=radical&custom_title=Github Engagements&rank_icon=github&title_color=2f80ed" />
 </div>
 
 <br>
